@@ -1,0 +1,6 @@
+telegram_bot_token: "" # <your-telegram-bot-token>
+schedule_time: "hh:mm" # <Schedule-time>
+chat_id: "" # <your-channel-chat-id>
+join_url: "" # <your-join-url>
+font_path: "" # <font-file>
+cover_image_path: "" # <cover image>
